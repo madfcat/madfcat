@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfcat&theme=flag-india&show_icons=true&hide_border=true&layout=compact" alt="madfcat's GitHub Stats" width="300" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madfcat&theme=flag-india&hide_border=true" alt="madfcat's GitHub Stats" width="300" />
+
 <!--
 **madfcat/madfcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
