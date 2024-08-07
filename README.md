@@ -2,8 +2,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madfcat&theme=flag-india&show_icons=true&hide_border=true&layout=compact" alt="madfcat's GitHub Stats" style="width:50%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=madfcat&theme=flag-india&hide_border=true" alt="madfcat's GitHub Stats" style="width:50%" />
 
-
-## I work with these tools
+<details closed>
+<summary>&nbsp;&nbsp;I work with these tools (CLICK ME 🖲️)</summary>
+<hr />
 
 ### Coding
 
@@ -36,7 +37,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="25" width="30" />
 
+</details>
+<hr />
 
-## Next to learn
+<details closed>
+<summary>&nbsp;&nbsp;Next to learn (CLICK ME 🎒)</summary>
+<hr />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" height="25" width="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="25" width="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="25" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="25" width="30" />
+
+</details>
+<hr />
