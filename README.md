@@ -3,16 +3,17 @@
 **Vladimir Shchukin**  
 _**Creative full stack engineer and software developer**_
 
-↳Wether it’s an emerging start-up or the established multi-billion euro business, I make projects shine and work for your favour.
+↳ Whether it’s an emerging start-up or the established multi-billion-euro business, I make projects shine and work in your favour.
 
-A brand owner myself, I paved my path through the process of developing ideas into the final product, building e-commerce platforms and marketing for myself.
-Crafting projects from scratch I honed my creative approach and coding skills.
+A brand owner myself, I have paved my path by transforming ideas into the final product, building e-commerce platforms and marketing my own projects.
+Crafting projects from scratch, I have honed my creative approach and coding skills.
 
 I combine striking aesthetics with proper design solutions and software architecture to get full immersive experiences and keep your users captivated. ↲
 
 [Visit website ↗︎](https://madfcat.github.io/)
 
-At the moment, I am working on a new interactive video streaming project. Stay tuned!
+At the moment, I am working on a new interactive video streaming project.  
+Stay tuned!
 
 Companies I worked with:  
 _Nero Lataus, Supercell, Hypend, Stephen Industries, PILLS WHEELS, Our Agency, BBO Creative_
